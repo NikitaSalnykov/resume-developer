@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://NikitaSalnykov.github.io/my-resume-website/",
+  "homepage": "https://NikitaSalnykov.github.io/resume-developer/",
   "dependencies": {
     "@formspree/react": "^2.5.1",
     "@testing-library/jest-dom": "^5.16.3",
