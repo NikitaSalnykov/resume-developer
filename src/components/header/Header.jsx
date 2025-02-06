@@ -62,8 +62,6 @@ export const Header = () => {
           <Bio>
             <h1>{t('name')}</h1>
             <p>Front-end developer,</p>
-            <p>Project Manager,</p>
-            <p>Project Owner</p>
           </Bio>
         </HeaderContainer>
       </Container>
