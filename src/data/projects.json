@@ -104,13 +104,13 @@
   {
     "id": 7,
     "title": "MedAccount",
-    "type": "Team Project / Role: Product Owner",
-    "typeUa": "Командний проєкт / Роль: Product Owner",
+    "type": "Team Project (Role: Team Lead & Developer)",
+    "typeUa": "Командний проєкт (Роль: Керівник команди та розробник)",
     "technologies": ["Next JS", "React Native", "Tailwind", "REST API", "AXIOS", "Webpack"],
     "page": "https://medaccount.com.ua/",
     "repositorium": "https://github.com/MedAccount/medaccount-client",
-    "description": "As a Product Owner, I led the development of MedAccount, the first professional social network for doctors in Ukraine. The platform provides multifunctional tools, including online conferences, hybrid events in teleconference format, creation of posts, groups, consultations, and discussions of clinical cases. It also features user profile storage for certificates and a constantly updated database of medical protocols and guidelines. Additionally, I oversaw the integration of AI based on ChatGPT to enhance functionality and address various user needs.",
-    "descriptionUa": "Як Product Owner я очолював розробку MedAccount, першої професійної соціальної мережі для лікарів в Україні. Платформа надає багатофункціональні інструменти, включаючи онлайн-конференції, гібридні події у форматі телемосту, створення постів, груп, консультацій та обговорення клінічних випадків. Також є можливість зберігання профілю користувача для сертифікатів і постійно оновлювана база медичних протоколів та рекомендацій. Крім того, я контролював інтеграцію ШІ на основі ChatGPT для покращення функціональності та задоволення різноманітних потреб користувачів.",
+    "description": "I led the development of MedAccount, the first professional social network for doctors in Ukraine. The platform provides multifunctional tools, including online conferences, hybrid events in teleconference format, creation of posts, groups, consultations, and discussions of clinical cases. It also features user profile storage for certificates and a constantly updated database of medical protocols and guidelines. Additionally, I oversaw the integration of AI based on ChatGPT to enhance functionality and address various user needs.",
+    "descriptionUa": "Очолював розробку MedAccount, першої професійної соціальної мережі для лікарів в Україні. Платформа надає багатофункціональні інструменти, включаючи онлайн-конференції, гібридні події у форматі телемосту, створення постів, груп, консультацій та обговорення клінічних випадків. Також є можливість зберігання профілю користувача для сертифікатів і постійно оновлювана база медичних протоколів та рекомендацій. Крім того, я контролював інтеграцію ШІ на основі ChatGPT для покращення функціональності та задоволення різноманітних потреб користувачів.",
     "img": {
       "prev": "/img/projects/medacc.png",
       "img1": "/img/projects/medacc-scr.png",
