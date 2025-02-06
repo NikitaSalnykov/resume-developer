@@ -61,7 +61,7 @@ export const Header = () => {
           </Photo>
           <Bio>
             <h1>{t('name')}</h1>
-            <p>Front-end developer,</p>
+            <p>Front-end developer</p>
           </Bio>
         </HeaderContainer>
       </Container>
