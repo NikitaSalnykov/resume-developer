@@ -4,10 +4,7 @@ import React, { useState } from 'react'
 import { useTranslation } from 'react-i18next';
 
 export const AboutMe = () => {
-  const [readMore, setReadMore] = useState(false)
   const { t } = useTranslation();
-
-  
 
   return (
     <Section>
